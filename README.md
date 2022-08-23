@@ -1,2 +1,3 @@
 # guide-for-junior-developers
-Working as developer guide book for junior developers and students
+
+Ажилд орж буй хөгжүүлэгч нарт зориулж буй ном
